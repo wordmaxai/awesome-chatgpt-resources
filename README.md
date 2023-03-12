@@ -1,4 +1,4 @@
-# Awesome ChatGPT
+# Awesome ChatGPT Resources
 
 ![ChatGPT](/chatgpt-banner.png)
 
@@ -74,9 +74,7 @@
 - [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen)
 
 ### Example prompts
-- [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
-... just follow [@goodside](https://twitter.com/goodside)
-
+- [Awesome ChatGPT prompts](https://github.com/wordmaxai/awesome-chatgpt-prompts)
 
 
 
@@ -84,4 +82,4 @@
 
 ### Contribution
 
-This list started as personal collection of interesting things about chatGPT from OpenAI. Your contributions and suggestions are warmly welcomed.
+This list started as personal collection of interesting things about chatGPT from OpenAI by Humanloop. Your contributions and suggestions are warmly welcomed.
